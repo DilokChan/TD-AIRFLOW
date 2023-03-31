@@ -68,7 +68,7 @@ def ingestion_data(auth_token, property_type, land_office):
     PARAMS = {
         "OptID": "",
         "OrganizationID": land_office,
-        "Month": "01",
+        "Month": "02",
         "Year": "2566"
     }
     try:
